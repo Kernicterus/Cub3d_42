@@ -1,11 +1,11 @@
 # Cub3d (school 42 project)
 
-## Description
+## Project overview
 This project is a C-based implementation of a raycasting engine designed to create a simple 3D game reminiscent of Wolfenstein 3D. 
 
 ## Contents
 
-- [Project Overview](#project-overview)
+- [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Acknowledgments](#acknowledgments)
@@ -13,8 +13,8 @@ This project is a C-based implementation of a raycasting engine designed to crea
 
 ![Image1](screenshots/image.png)
 
-## Project Overview
-This project is a C-based implementation of a raycasting engine designed to create a simple 3D game reminiscent of Wolfenstein 3D. The primary objective is to develop a basic first-person game where the player navigates through a maze-like environment. The raycasting technique is used to simulate 3D perspectives within a 2D grid, rendering walls, floors, and objects based on the player's viewpoint. The project involves key concepts such as player movement, sprites, collision detection, and minimalistic graphics rendering to achieve a retro gaming experience.
+## Description
+The primary objective is to develop a basic first-person game where the player navigates through a maze-like environment. The raycasting technique is used to simulate 3D perspectives within a 2D grid, rendering walls, floors, and objects based on the player's viewpoint. The project involves key concepts such as player movement, sprites, collision detection, and minimalistic graphics rendering to achieve a retro gaming experience.
 
 ## Installation
 
