@@ -1,13 +1,14 @@
 # Cub3d (school 42 project)
 
 ## Project overview
-This project is a C-based implementation of a raycasting engine designed to create a simple 3D game reminiscent of Wolfenstein 3D. 
+This project is a C-based implementation of a raycasting engine designed to create a simple 3D game reminiscent of Wolfenstein 3D. It was a two-person group project.
 
 ## Contents
 
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Contributors](#contributors)
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
 
@@ -40,9 +41,12 @@ The primary objective is to develop a basic first-person game where the player n
    ./cub3D <map.cub>
    ```
 
-5. ** Commands **
-- q,s,d,z to move
+5. **Commands :**
+- q, s, d, z to move
 - 'e' to open gates
+
+## Contributors
+[ArmandI0](https://github.com/ArmandI0)
 
 ## Aknowledgments
 - **42 school**: I wish to express my sincere appreciation to 42 school for imparting essential knowledge and skills in coding. 
